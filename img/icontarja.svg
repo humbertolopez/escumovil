@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135"
+   height="135"
+   id="svg5394"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icontarja.svg">
+  <defs
+     id="defs5396" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="90.84366"
+     inkscape:cy="97.964115"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1520"
+     inkscape:window-height="752"
+     inkscape:window-x="175"
+     inkscape:window-y="175"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5399">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-396.25003,-385.75506)">
+    <g
+       id="g3774"
+       inkscape:export-filename="C:\xampp\htdocs\em\wp-content\themes\escumovil\img\icontarja.png"
+       inkscape:export-xdpi="33.319149"
+       inkscape:export-ydpi="33.319149">
+      <path
+         id="path4068"
+         transform="translate(396.25003,385.75506)"
+         d="M 42.125 18.1875 C 40.74476 18.90066 39.40295 19.7396 38.09375 20.5625 L 38.09375 29.125 L 40.96875 29.125 L 40.96875 73.46875 L 22.3125 81.6875 L 29.1875 107.21875 C 33.11138 110.99497 37.56417 114.32022 42.46875 116.8125 L 92.53125 116.8125 C 100.53381 112.75374 107.51676 106.75076 112.6875 99.5 C 112.6875 99.5 117.45839 92.418239 120.625 82.875 L 33.9375 82.875 A 1.50015 1.50015 0 0 1 33.34375 80 L 47.03125 73.875 A 1.50015 1.50015 0 0 1 47.5 73.75 A 1.50015 1.50015 0 0 1 47.65625 73.75 L 122.84375 73.75 C 123.16236 71.667692 123.375 69.540126 123.375 67.40625 C 123.375 51.11277 112.6875 35.34375 112.6875 35.34375 C 107.59032 28.19619 100.732 22.24134 92.875 18.1875 L 42.125 18.1875 z M 47.96875 76.75 L 40.9375 79.875 L 121.5625 79.875 C 121.84599 78.849697 122.08343 77.812766 122.3125 76.75 L 47.96875 76.75 z "
+         style="fill:#00d700;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(1.9157088,0,0,1.9157088,-1109.5259,-602.77944)"
+         d="m 855,551.25 a 33.75,33.75 0 1 1 -67.5,0 33.75,33.75 0 1 1 67.5,0 z"
+         sodipodi:ry="33.75"
+         sodipodi:rx="33.75"
+         sodipodi:cy="551.25"
+         sodipodi:cx="821.25"
+         id="path10155-6-6-1-8"
+         style="color:#000000;fill:none;stroke:#00d700;stroke-width:2.97000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
