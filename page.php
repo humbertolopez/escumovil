@@ -27,7 +27,17 @@
 			<?
 		} else if (is_page('camerinos')) {
 			?>
+				<div class="doblecol">					
+					<?php get_template_part('info-pagos') ?>
+				</div>
+				<div class="col">
+					<a href="<?php bloginfo('url'); ?>/cotizacion"><h4 class="cotbutton">Solicita una cotización</h4></a>
+				</div>
+			<?
+		} else if (is_page('centrosdelavado')) {
+			?>
 				<div class="doblecol">
+					<?php echo do_shortcode('[gallery ids="737,738,739,740,741" columns="2" link="file" orderby="rand"]'); ?>
 					<?php get_template_part('info-pagos') ?>
 				</div>
 				<div class="col">
@@ -36,7 +46,6 @@
 			<?
 		}
 	?>
-
 </div>
 
 <?php get_footer(); ?>
