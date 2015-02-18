@@ -39,11 +39,12 @@ header .logo:hover {
 header .menu {
 	margin: 0;
 	padding: 0;
-	float: left;
+	/*float: left;
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
-	/*background: #f1f1f1;*/
+	background: #f1f1f1;*/
+	clear: both;
 	background: #ffffff; /* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #f1f1f1 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f1f1f1)); /* Chrome,Safari4+ */
@@ -76,6 +77,9 @@ header .menu-item:hover, header .current-menu-item {
 }
 header .menu-item:hover a {
 	/*color: #81c341;*/
+}
+header ul.sub-menu {
+	display: none;
 }
 #top-contact {
 	position: absolute;
@@ -273,13 +277,13 @@ h4, input.enviar {
 }
 p, #post ul {
 	font-size: 0.875em;
-	-ms-word-break: break-all;
+	/*-ms-word-break: break-all;
 	word-break: break-word;
 	-o-hyphens: auto;
 	-ms-hyphens: auto;
 	-moz-hyphens: auto;
 	-webkit-hyphens: auto;
-	hyphens: auto;
+	hyphens: auto;*/
 }
 #carreventos p {
 	text-align: center;
